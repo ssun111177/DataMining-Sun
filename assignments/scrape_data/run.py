@@ -25,6 +25,6 @@ for i in range(0,6):
     time.sleep(random.randint(0, 1))
 print (Movie_names)
 
-with open('try.json','w') as file:
+with open('data.json','w') as file:
     movie=json.dumps(Movie_names,indent=1)
     file.write(movie)
