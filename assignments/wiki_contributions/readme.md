@@ -1,3 +1,15 @@
+Parkinglot
+==============================
+Due by : TBD
+- ***Name:*** Shenglin Sun
+- ***Roster Number:*** 17
+
+|   #   |Group members |
+|:----:|:------------------|
+| 1 |  Steven Kundert  |
+| 2 |  Shenglin Sun  |
+
+
 
 ### Generative Adversarial Network
 A generative adversarial network an artificial intelligence algorithm that pits two neural networks, a **generative model** and a **discriminative model**, against each other to create data that is similar to data provided to the network.
